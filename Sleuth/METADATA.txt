@@ -1,0 +1,11 @@
+	sample	condition
+1	GF_LIVER_C1	control
+2	GF_LIVER_C2	control
+3	GF_LIVER_C3	control
+4	GF_LIVER_C4	control
+5	GF_LIVER_C5	control
+6	GF_LIVER_E1	supplemented
+7	GF_LIVER_E2	supplemented
+8	GF_LIVER_E3	supplemented
+9	GF_LIVER_E4	supplemented
+10	GF_LIVER_E5	supplemented
